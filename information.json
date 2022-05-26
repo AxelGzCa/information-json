@@ -32,13 +32,13 @@
 },
 {
 	"Description": "These are some approximations of my abilities in regards to the programming languages and the tools with which I have worked during the course:",
-	"HTML": "60", 
-	"CSS": "50", 
-	"VUE": "25", 
-	"MYSQL": "20", 
-	"JAVA": "10", 
-	"PHYTON": "05", 
-	"JAVASCRIPT": "10", 
-	"PHP": "05"
+	"HTML": "60%", 
+	"CSS": "50%", 
+	"VUE": "25%", 
+	"MYSQL": "20%", 
+	"JAVA": "10%", 
+	"PHYTON": "05%", 
+	"JAVASCRIPT": "10%", 
+	"PHP": "05%"
 }
 ]
